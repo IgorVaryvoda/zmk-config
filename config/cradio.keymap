@@ -42,6 +42,8 @@
             bindings =
                 <&kp SINGLE_QUOTE>,
                 <&kp SEMICOLON>;
+
+            tapping-term-ms = <150>;
         };
     };
 
